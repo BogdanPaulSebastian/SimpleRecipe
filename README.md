@@ -1,5 +1,5 @@
 # SimpleRecipe
-**This is a re-upload of my "Simple Recipe" android app that I made 4 years ago**
+**This is a re-upload of my "Simple Recipe" android app that I made in 2021**
 
 It has been taken off play store after google policy changes - so I'm making it public maybe someone will learn from it.
 
